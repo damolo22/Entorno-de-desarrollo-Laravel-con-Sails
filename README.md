@@ -12,7 +12,7 @@ Terminal o consola de comandos.
 Con todo esto empezamos ejecutando el comando de instalación : curl -s "https://laravel.build/ProyectoSails" | bash
 
 
-![foto 1](img/CAP1.png)
+  ![foto 1](img/CAP1.PNG)
 
 
 
@@ -20,7 +20,7 @@ Una vez creado entramos y lanzamos por primera vez los contenedores:
 
 ./vendor/bin/sail up -d
 
-![foto 2](img/CAP2.png)
+![foto 2](img/CAP2.PNG)
 
 Ahora ejecutamos las migraciones :
 
@@ -28,6 +28,6 @@ Ahora ejecutamos las migraciones :
 
 Entrando en http://localhost vemos: 
 
-![foto 3](img/CAP3.png)
+![foto 3](img/CAP3.PNG)
 
 
